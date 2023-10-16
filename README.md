@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IL2DG
 - 👀 I’m interested in game develop
 - 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on other peoples(?)
 - 📫 How to reach me:
 - gmail ilov32dg1rls@gmail.com
 - telegram @IL2DG
